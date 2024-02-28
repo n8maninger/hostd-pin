@@ -12,9 +12,9 @@ currency: usd
 frequency: 5m
 threshold: 0.05
 prices:
-	storage: 1.00
-	ingress: 1.00
-	egress: 1.00
+  storage: 1.00
+  ingress: 1.00
+  egress: 1.00
 hosts:
   - address: http://localhost:9980/api
     password: sia is cool
